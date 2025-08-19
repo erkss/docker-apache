@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('docker-background.png');
+  background-color: #2496ED;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #022144;
+  text-align: center;
+  padding: 200px;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 30px;
+  padding: 15px 30px;
+  font-size: 1em;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #0eb94a;
+  color: white;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background-color: #0f5801;
+}
