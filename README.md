@@ -2,7 +2,7 @@
 
 Este é um projeto simples que demonstra como rodar uma página HTML estática usando **Docker** e o servidor **Apache**.
 
-<img src="images/screenshot.png" alt="screenshot" width="900">
+<img src="images/screenshot.png" alt="screenshot" width="835">
 
 ## Descrição do Projeto
 
